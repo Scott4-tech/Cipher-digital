@@ -1,0 +1,6 @@
+{
+  "name": "Cipher Digital",
+  "description": "Elite bitcoin mining at industrial scale. Building the digital infrastructure of the future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
